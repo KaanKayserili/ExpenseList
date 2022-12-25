@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "frontend3",
+    "slug": "frontend3",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/KK-LOGO(Beyaz).png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/KK-LOGO(Beyaz).png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/KK-LOGO(Beyaz).png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/KK-LOGO(Beyaz).png"
+    }
+  }
+}
